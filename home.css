@@ -1,0 +1,53 @@
+/*body {
+  justify-content: center;
+  background-color: #f7f8fc;
+  font-family: "Roboto", sans-serif;
+  color: #10182f;
+  padding: 10px;
+}*/
+.avatar {
+  width: 130px;
+  border-radius: 180px;
+}
+
+.avatarContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.cardView {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.textTitle {
+  color: red;
+  font-family: courier;
+  font-size: 130%;
+  text-align: center;
+}
+
+.textContent {
+  color: black;
+  font-family: courier;
+  font-size: 100%;
+  text-align: center;
+}
+
+table th {
+  text-align: center;
+  padding: 20px;
+  font-family: courier;
+  color: red;
+}
+
+table td {
+  text-align: center;
+  padding: 10px;
+  font-family: courier;
+}
